@@ -1,0 +1,25 @@
+# Security & Environment
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Database
+*.sqlite3
+*.db
+
+# Pyrogram Sessions (Sensitive)
+*.session
+*.session-journal
+
+# Logs
+*.log
+log.txt
+
+# Generated Artifacts / Agent Files
+.agents/
+graphify-out/
+
+# OS Files
+.DS_Store

@@ -188,7 +188,7 @@ python3 bot.py
 
 ## Disclaimer
 
-This Repository Is Provided For Educational Purposes Only. It Is Not Intended For Personal Or Commercial Gain. Use Of This Repository And The Code Within Is At Your Own Risk. The Authors And Contributors Are Not Responsible For Any Misuse Or Damage Caused By The Use Of This Project.
+This Repository Is Provided For Educational Purposes Only. It Is Not Intended For Personal Or Commercial Gain. Use Of This Repository And The Code Within Is At Your Own Risk. The Authors And Contributors Are Not Responsible For Any Misuse Or Damage Caused By The Use Of This Project..
 
 ## License
 
